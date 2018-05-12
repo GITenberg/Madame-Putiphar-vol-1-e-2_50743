@@ -1,4 +1,8 @@
 _repo: Madame-Putiphar-vol-1-e-2_50743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50743-h/images/cover.jpg
 creator:
   author:
     agent_name: Borel, Pétrus
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '39615'
     url: http://www.gutenberg.org/2009/agents/39615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50743#Madame-Putiphar-vol-1-e-2
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature

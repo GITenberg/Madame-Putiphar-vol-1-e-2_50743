@@ -27,5 +27,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Madame Putiphar, vol 1 e 2
 url: http://www.gutenberg.org/ebooks/50743
